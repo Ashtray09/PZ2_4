@@ -1,0 +1,36 @@
+body {
+	background-color: #63573F;
+}
+.header{
+	background-image: url('https://e1.pxfuel.com/desktop-wallpaper/440/762/desktop-wallpaper-multicam-black-multicam.jpg' );
+
+	background-size: contain;
+	margin 0;
+}
+.bold{
+	font-weight: bold;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+ul{
+	list-style-type: square;
+}
+input[type="text"], button {
+	background-color: #F2F2F2;
+	border: 1px solid #CCCCCC;
+	padding: 5px;
+}
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+th,td {
+	border: 1px solid #DDDDDD;
+	padding: 8px;
+	text-align: left;
+}
